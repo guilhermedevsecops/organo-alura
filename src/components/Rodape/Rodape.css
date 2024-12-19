@@ -1,0 +1,28 @@
+.rodape{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    height: 80px;
+    align-items: center;
+}
+
+.logo{
+    display: flex;
+    height: 20px;
+    width: 80px;
+    justify-content: space-between;
+  }
+
+  .logo img{
+    height: 20px;
+    
+  }
+
+  .organo-logo{
+    height: 40px
+  }
+
+  .organo-logo img{
+    height: 40px;
+  }
